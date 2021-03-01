@@ -1,4 +1,4 @@
-# Configuración de Typedoc, Mocha y Chai en un proyecto TypeScript
+## Configuración de Typedoc, Mocha y Chai para TypeScript
 
 En este repositorio se aloja un ejemplo sencillo que permite habilitar la generación de documentación
 en TypeScript mediante [Typedoc](https://typedoc.org/), además de la configuración de
