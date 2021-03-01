@@ -1,7 +1,7 @@
 /**
  * Adds two numbers
- * @param firstNumber Consists of the first operand of the addition
- * @param secondNumber Consists of the second operand of the addition
+ * @param firstNumber Consists of the first numeric operand of the addition
+ * @param secondNumber Consists of the second numeric operand of the addition
  * @return The addition of the two numbers `firstNumber` and `secondNumber`
  *
  * Usage:
